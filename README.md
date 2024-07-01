@@ -1,4 +1,15 @@
-## Hi there 👋
+## Hi I'm Shyam  👋
+
+Welcome to my GitHub profile! I'm a passionate React Native developer who loves building beautiful and functional mobile applications.
+
+![Profile Views](https://komarev.com/ghpvc/?username=shyammanek&color=blue)
+
+
+
+### Connect with me:
+- LinkedIn: [shyam](https://www.linkedin.com/in/shyam-manek-6btkrpsm/)
+
+- 
 
 <!--
 **shyammanek/shyammanek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
